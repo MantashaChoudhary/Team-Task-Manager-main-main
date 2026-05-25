@@ -5,7 +5,7 @@ A full-stack web application for team project management, task assignment, and p
 Built by Ethara AI
 
 Live URL: https://web-production-184f6.up.railway.app
-GitHub Repo: https://github.com/AnwarKhalid00/Team-Task-Manager-main
+GitHub Repo: https://github.com/MantashaChoudhary/Team-Task-Manager-main-main
 
 
 ## Features
@@ -154,7 +154,7 @@ GET    /api/dashboard          Get dashboard stats
 ## Submission Checklist
 
 [x] Live URL: https://web-production-184f6.up.railway.app/
-[x] GitHub Repo: https://github.com/AnwarKhalid00/Team-Task-Manager-main
+[x] GitHub Repo: https://github.com/MantashaChoudhary/Team-Task-Manager-main-main
 [x] README documentation
 [ ] 2-5 min demo video
 
