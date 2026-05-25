@@ -34,7 +34,7 @@ A full-stack web application for team project management, task assignment, and p
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/AnwarKhalid00/Team-Task-Manager-main.git
+git clone https://github.com/MantashaChoudhary/Team-Task-Manager-main-main.git
 cd Team-Task-Manager
 npm install
 npm run build
